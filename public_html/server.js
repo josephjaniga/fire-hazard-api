@@ -2,7 +2,7 @@ var express = require('express'),
     app     = express(),
     news    = express.Router(),
     images  = express.Router(),
-    port    = 3333,
+    port    = 3334,
     host    = "localhost";
 
 var newsData = {
