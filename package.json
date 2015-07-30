@@ -1,0 +1,7 @@
+{
+  "name": "fire-hazard-api",
+  "private": true,
+  "dependencies": {
+    "express": "~4.12.4"
+  }
+}
