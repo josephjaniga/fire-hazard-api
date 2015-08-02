@@ -7,7 +7,7 @@ var express = require('express'),
 
 var newsData = {
     items: [
-        {"text":"WHY R U TRYING TO KILL ME???", "image":"/images/batman.jpg", "url":"http://www.google.com", "unixDateTime": 1438206354829}
+        {"text":"Check out our other games @ FireHazard.us", "image":"/images/firehazard.png", "url":"http://www.firehazard.us", "unixDateTime": 1438206354829}
     ],
     now: +new Date()
 };
